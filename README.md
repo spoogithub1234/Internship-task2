@@ -1,2 +1,2 @@
-# Internship-task2
-The project includes a framework of social media sites where users can communicate with one another. The users also get the functionality to assign tasks to others
+# BharatIntern-Task2-Project-Management-Tool
+Virtual Internship Tasks for Bharat Internship in Full Stack Development, Task 2 is about the Project Management Tool is done using PHP, SQL, JAVASCRIPT etc
